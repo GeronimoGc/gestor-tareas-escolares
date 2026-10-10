@@ -1,0 +1,20 @@
+{
+  "name": "gestor-tareas-backend",
+  "version": "1.0.0",
+  "description": "Backend API REST con Express y MongoDB Atlas para Gestor de Tareas Escolares SENA ADSO",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "node --watch src/server.js",
+    "seed": "node seed.js"
+  },
+  "keywords": ["sena", "adso", "mongodb", "express", "api", "react-native"],
+  "author": "ADSO - Quinto Trimestre",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "mongoose": "^8.9.5"
+  }
+}
