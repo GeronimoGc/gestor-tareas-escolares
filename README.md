@@ -5,11 +5,9 @@ Aplicación móvil integral y API REST desarrollada en parejas para la gestión 
 
 ---
 
-## 👥 Datos de la Pareja
-- **Aprendiz 1:** `[Escribe aquí tu nombre completo]`
-- **Aprendiz 2:** `[Escribe aquí el nombre de tu compañero/a]`
-- **Ficha / Programa:** ADSO - Quinto Trimestre
-- **Tema Elegido:** 1. Gestor de Tareas Escolares
+- **Aprendiz:** `Geronimo Gonzalez C`
+- **Ficha / Programa:** ADSO3314566 - Quinto Trimestre
+- **Tema Elegido:** Gestor de Tareas Escolares
 
 ---
 
@@ -127,10 +125,3 @@ Si deseas que la app guarde los datos directamente en tu clúster de **MongoDB A
 | `DELETE`| `/api/tareas/:id` | Eliminar tarea de la base de datos |
 
 ---
-
-## 🎯 Entregables de la Actividad
-1. **Código fuente:** Repositorio en GitHub o archivo `.zip`.
-2. **Capturas de pantalla:**
-   - App móvil funcionando en Expo (con lista de tareas y métricas).
-   - Base de datos en MongoDB Atlas / Compass / Mongo Express (`http://localhost:8085`).
-3. **Sustentación:** Consulta el archivo [SUSTENTACION.md](file:///c:/Users/HP/Documents/Docker-Compose/gestor-tareas-escolares/SUSTENTACION.md) para el libreto ensayado de 5 minutos con los roles de la pareja.
